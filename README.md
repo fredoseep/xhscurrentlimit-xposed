@@ -1,3 +1,5 @@
 本模块仅供学习研究，请勿用于其他任何侵权用途
 
 适配 9.20.0和9.21.0 具体是否还有效未知
+
+非root环境使用：https://github.com/JingMatrix/LSPatch
